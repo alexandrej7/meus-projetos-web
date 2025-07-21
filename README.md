@@ -24,8 +24,4 @@ Receba frases inspiradoras, engraçadas e nerds sobre tecnologia e programação
 
 ---
 
-## 📁 Como rodar os projetos localmente
 
-1. Clone o repositório:  
-```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
